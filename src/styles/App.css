@@ -1,0 +1,55 @@
+* {
+
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Form {
+  margin-top: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: black;
+  background: white;
+  border: 3px solid teal;
+  cursor: pointer;
+  border-radius: 15px;
+  width: 400px;
+}
+
+.Name{
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+
+}
+
+.Email{
+
+}
+
+.Password{
+
+}
+
+.Button{
+
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  border: 1px solid teal;
+  cursor: pointer;
+  border-radius: 5px;
+  background: lightblue;
+
+}
+
+
+
+
